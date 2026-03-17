@@ -322,6 +322,7 @@ nav ul li a:hover::after{
     color: #ababab;
     display: inline-block;
     transition: transform 0.5s;
+    align-items: center;
 }
 .social-icons a:hover{
     color: #ff004f;
