@@ -52,6 +52,8 @@ form.addEventListener("submit", function(e){
             msg.innerHTML=""
         },5000)
         form.reset();
+
+        
     })
     .catch(error => {
         alert("Something went wrong. Please try again.");
